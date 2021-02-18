@@ -52,4 +52,4 @@
 
 * 随机数值使用 ThreadLocalRandom.current().nextXXX() 
 * 随机对象生成采用 [easy-random](https://github.com/j-easy/easy-random) 生成
-* MockJs 模板采用 MockJs4j 生成
+* MockJs 模板采用 [MockJs4j](https://github.com/dadiyang/MockJs4j) 生成
